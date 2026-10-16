@@ -1,0 +1,8 @@
+{
+  "name": "ShelfNova - Smart Warehouse & Freshness Intelligence",
+  "description": "Smart Warehouse Freshness & Inventory Management System with FEFO Dispatch, Computer Vision Quality Inspection, IoT Storage Telemetry, and AI RAG Assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
